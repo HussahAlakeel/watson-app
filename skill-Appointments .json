@@ -1,0 +1,1551 @@
+{
+  "intents": [
+    {
+      "intent": "Bot_Control_Unsure",
+      "examples": [
+        {
+          "text": "You got me"
+        },
+        {
+          "text": "To be honest, I m really not sure"
+        },
+        {
+          "text": "No idea"
+        },
+        {
+          "text": "No clue"
+        },
+        {
+          "text": "I m not yet convinced"
+        },
+        {
+          "text": "I m not sure what will make you happy"
+        },
+        {
+          "text": "I m not certain I get what you re saying"
+        },
+        {
+          "text": "I haven't got a clue"
+        },
+        {
+          "text": "I have no idea what you are looking for"
+        },
+        {
+          "text": "I have no idea, actually"
+        },
+        {
+          "text": "I don t know what you want"
+        },
+        {
+          "text": "I don t know what you need"
+        }
+      ],
+      "description": "Indicate no definite answer to a question."
+    },
+    {
+      "intent": "opening",
+      "examples": [
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "I need help"
+        },
+        {
+          "text": "Hey"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "hi there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "answer me"
+        },
+        {
+          "text": "How are you"
+        },
+        {
+          "text": "Hello"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bot_Control_Start_Over",
+      "examples": [
+        {
+          "text": "We will need to begin again"
+        },
+        {
+          "text": "We need a do-over"
+        },
+        {
+          "text": "Start over"
+        },
+        {
+          "text": "Restart"
+        },
+        {
+          "text": "Please start a new chat"
+        },
+        {
+          "text": "Please reset"
+        },
+        {
+          "text": "Please initiate from the beginning"
+        },
+        {
+          "text": "One more time from the beginning"
+        },
+        {
+          "text": "Let's pick this up from the top again."
+        },
+        {
+          "text": "Let's go back to square one"
+        },
+        {
+          "text": "Let us reopen this again."
+        },
+        {
+          "text": "I would like to start all over"
+        },
+        {
+          "text": "I want start from the beginning"
+        },
+        {
+          "text": "I need to reset."
+        },
+        {
+          "text": "How can I start over?"
+        },
+        {
+          "text": "Can we please start over?"
+        },
+        {
+          "text": "Begin over!"
+        },
+        {
+          "text": "Back to the top"
+        },
+        {
+          "text": "Back to the beginning"
+        },
+        {
+          "text": "Actually, let's start over"
+        }
+      ],
+      "description": "Restart bot or current flow."
+    },
+    {
+      "intent": "Customer_Care_Employment_Inquiry",
+      "examples": [
+        {
+          "text": "Can I join you guys?"
+        },
+        {
+          "text": "What is your jobs web site?"
+        },
+        {
+          "text": "What employment opportunities are currently available?"
+        },
+        {
+          "text": "What are the jobs you are hiring for?"
+        },
+        {
+          "text": "What are the job openings available with the company?"
+        },
+        {
+          "text": "Well I m asking what level of the marketing position your company is looking for"
+        },
+        {
+          "text": "Search job"
+        },
+        {
+          "text": "Is there any current employment opportunities?"
+        },
+        {
+          "text": "I need to find some work"
+        },
+        {
+          "text": "I am looking for a job and would like to know if you have anything available.."
+        },
+        {
+          "text": "How would I go about joining your company?"
+        },
+        {
+          "text": "Hire me please"
+        },
+        {
+          "text": "Halp me I need work"
+        },
+        {
+          "text": "What jobs are available that are hiring for now?"
+        },
+        {
+          "text": "Are you hiring at the moment?"
+        },
+        {
+          "text": "Are there any job vacancies currently open at your company?"
+        },
+        {
+          "text": "Where is your careers page?"
+        },
+        {
+          "text": "What's the process for job application?"
+        },
+        {
+          "text": "What positions do you have available?"
+        },
+        {
+          "text": "What kind of jobs do you have?"
+        }
+      ],
+      "description": "Find job opportunities."
+    },
+    {
+      "intent": "Customer_Care_Appointments",
+      "examples": [
+        {
+          "text": "I need to reschedule"
+        },
+        {
+          "text": "I prefer a face to face visit"
+        },
+        {
+          "text": "I want to cancel the appointment that I have with the store"
+        },
+        {
+          "text": "I want to talk in person with someone about my case"
+        },
+        {
+          "text": "I would like to discuss my situation face to face"
+        },
+        {
+          "text": "I would like to make an appointment to visit the nearest store to my location."
+        },
+        {
+          "text": "Is it possible to set a date?"
+        },
+        {
+          "text": "Make an appointment"
+        },
+        {
+          "text": "Set up an appt"
+        },
+        {
+          "text": "Store appointment"
+        },
+        {
+          "text": "Want to change my visit"
+        },
+        {
+          "text": "What time can I meet the staff?"
+        },
+        {
+          "text": "When can I meet with one of your employees at your store?"
+        },
+        {
+          "text": "Dentistry Clinic opens from 9 AM till 2PM, which time is suitable for you? "
+        },
+        {
+          "text": "Can I book an in person session to learn how to use my new phone at the store near my house?"
+        },
+        {
+          "text": "Can someone support me at home?"
+        },
+        {
+          "text": "Can you explain me this in my house?"
+        },
+        {
+          "text": "Could I speak to someone in the store next tuesday?"
+        },
+        {
+          "text": "Could you cancel the engagement I had tomorrow in my apartment?"
+        },
+        {
+          "text": "How can I change the schedule?"
+        },
+        {
+          "text": "I am due at a store tomorrow at 2pm and wish to change my appointment please?"
+        }
+      ],
+      "description": "Schedule or manage an in-store appointment."
+    },
+    {
+      "intent": "Customer_Care_Open_Account",
+      "examples": [
+        {
+          "text": "How do I login?"
+        },
+        {
+          "text": "Make account"
+        },
+        {
+          "text": "Please tell me how to register as one of your members."
+        },
+        {
+          "text": "What do I need to do to start an account with your company?"
+        },
+        {
+          "text": "What is required to get signed up here?"
+        },
+        {
+          "text": "What is the log in process for new users?"
+        },
+        {
+          "text": "What is the process to making an account?"
+        },
+        {
+          "text": "Where can I register?"
+        },
+        {
+          "text": "Where do I find guidance on signing up?"
+        },
+        {
+          "text": "Where do I register for this?"
+        },
+        {
+          "text": "Where does a first time visitor sign up?"
+        },
+        {
+          "text": "Where is the sign in page?"
+        },
+        {
+          "text": "Where to login for the first time?"
+        },
+        {
+          "text": "Could you explain how to create a fresh account?"
+        },
+        {
+          "text": "Can you show me where to register for the program?"
+        },
+        {
+          "text": "Can someone new be able to login?"
+        },
+        {
+          "text": "Go joining here?"
+        },
+        {
+          "text": "How can I register over here?"
+        },
+        {
+          "text": "How do I become a customer?"
+        },
+        {
+          "text": "I'd like to register"
+        }
+      ],
+      "description": "Open an account."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "book_appointment",
+      "examples": [
+        {
+          "text": "Doc"
+        },
+        {
+          "text": "appointment"
+        },
+        {
+          "text": "appinmternt"
+        },
+        {
+          "text": "how can I book an appointment"
+        },
+        {
+          "text": "I want to book an appointment"
+        },
+        {
+          "text": "What is the process of booking an appointment"
+        },
+        {
+          "text": "what are the available appointments"
+        },
+        {
+          "text": "How can I see my doctor"
+        },
+        {
+          "text": "I want to reserve an appointment"
+        },
+        {
+          "text": "I need to see my doctor"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Customer_Care_Contact_Us",
+      "examples": [
+        {
+          "text": "Can you give me the number to the general manager?"
+        },
+        {
+          "text": "Can you please arrange for someone to call me!?"
+        },
+        {
+          "text": "Hi can you let me have the telephone number of my local store please?"
+        },
+        {
+          "text": "How can I contact your business?"
+        },
+        {
+          "text": "How do I best contact you when there has been a problem with my bill?"
+        },
+        {
+          "text": "I want to know number to the store closest to me"
+        },
+        {
+          "text": "I would like to speak to customer service."
+        },
+        {
+          "text": "Is there a phone number to your shop at fort worth tx?"
+        },
+        {
+          "text": "Need your phone number"
+        },
+        {
+          "text": "What is the closest store's phone number?"
+        },
+        {
+          "text": "Tell me the number to your general department"
+        },
+        {
+          "text": "What is the customer number?"
+        },
+        {
+          "text": "What is you email?"
+        },
+        {
+          "text": "What number should I call to order new line of service?"
+        },
+        {
+          "text": "Where can I reach the company personally?"
+        },
+        {
+          "text": "Which is the number of the main office here in los angeles?"
+        },
+        {
+          "text": "Who can I call?"
+        },
+        {
+          "text": "Can I contact the business by post?"
+        },
+        {
+          "text": "Can I get some more information?"
+        },
+        {
+          "text": "Can I text you a question?"
+        }
+      ],
+      "description": "Find basic contact information."
+    },
+    {
+      "intent": "Customer_Care_Notification_Preferences",
+      "examples": [
+        {
+          "text": "Can you help me with changing delivery method?"
+        },
+        {
+          "text": "Tell me process to change alerts method"
+        },
+        {
+          "text": "Notifications are to be received on sms"
+        },
+        {
+          "text": "I want to stop getting emails every time my card gets swiped"
+        },
+        {
+          "text": "I want my bank messages to notify me on emails as well"
+        },
+        {
+          "text": "I request to get alerts via email"
+        },
+        {
+          "text": "I need to change my current alert method to something else"
+        },
+        {
+          "text": "How to switch over from sms to email delivery alert?"
+        },
+        {
+          "text": "How to customize notifications that I am receiving?"
+        },
+        {
+          "text": "How to change my notification preferences?"
+        },
+        {
+          "text": "How do I change credit card transaction alerts?"
+        },
+        {
+          "text": "How can I update my delivery methods?"
+        },
+        {
+          "text": "How can I modify notification alerts?"
+        },
+        {
+          "text": "How can I edit delivery methods to new one?"
+        },
+        {
+          "text": "How can I change delivery method?"
+        },
+        {
+          "text": "Changing my notification preferences"
+        },
+        {
+          "text": "Change notifications to sms"
+        },
+        {
+          "text": "Can you send text notifications to additional mobile number?"
+        },
+        {
+          "text": "Can you send alert on my whatsapp?"
+        },
+        {
+          "text": "Can I use another way of receiving alerts by editing existing one?"
+        }
+      ],
+      "description": "Manage user's notifications."
+    },
+    {
+      "intent": "Customer_Care_Loyalty_Status",
+      "examples": [
+        {
+          "text": "Where do I learn my frequent purchaser tier?"
+        },
+        {
+          "text": "Can you tell me the status of my reward?"
+        },
+        {
+          "text": "Check rewards"
+        },
+        {
+          "text": "Customer loyalty status"
+        },
+        {
+          "text": "How can I see the points on my account?"
+        },
+        {
+          "text": "How do I verify my rewards balance?"
+        },
+        {
+          "text": "How many loyalty bonus points do I have?"
+        },
+        {
+          "text": "How many miles do I have?"
+        },
+        {
+          "text": "Please display my loyalty credits."
+        },
+        {
+          "text": "Please inform me of my current status?"
+        },
+        {
+          "text": "Points balance?"
+        },
+        {
+          "text": "Points statement?"
+        },
+        {
+          "text": "See available rewards?"
+        },
+        {
+          "text": "View my reward status."
+        },
+        {
+          "text": "What is my frequent buyer credit accumulation?"
+        },
+        {
+          "text": "What is my reward tier right now?"
+        },
+        {
+          "text": "What is the new point total?"
+        },
+        {
+          "text": "What's the number of mileage that I have on my account?"
+        },
+        {
+          "text": "Where is my points shown at?"
+        },
+        {
+          "text": "You can show to me my points?"
+        }
+      ],
+      "description": "Inquire about customer loyalty program status."
+    },
+    {
+      "intent": "Customer_Care_Cancel_Account",
+      "examples": [
+        {
+          "text": "Cancel plan"
+        },
+        {
+          "text": "I need to close my account at this time."
+        },
+        {
+          "text": "I need help with cancellation"
+        },
+        {
+          "text": "I am not very happy with services rendered on your part and want my account closed."
+        },
+        {
+          "text": "Cancel service please"
+        },
+        {
+          "text": "How do I close out my account?"
+        },
+        {
+          "text": "How do I cancel my phone service with your company?"
+        },
+        {
+          "text": "I want to cancel."
+        },
+        {
+          "text": "I want to disconnect my service"
+        },
+        {
+          "text": "I would like to cancel my service, can you do that for me?"
+        },
+        {
+          "text": "Id like to cancel or stop my service from my account"
+        },
+        {
+          "text": "I want to cancel my service"
+        },
+        {
+          "text": "My phone is broken so I am wondering if I could cancel my contract"
+        },
+        {
+          "text": "Please close my data card account"
+        },
+        {
+          "text": "Put an end to my account."
+        },
+        {
+          "text": "Terminate service"
+        },
+        {
+          "text": "What do I have to do to stop all my services with you and close my account?"
+        },
+        {
+          "text": "What is the procedure on canceling my account?"
+        },
+        {
+          "text": "Can you please terminate this service?"
+        },
+        {
+          "text": "Cancel account"
+        }
+      ],
+      "description": "Cancel or close an account."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Okay thank you"
+        },
+        {
+          "text": "okay thanks"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "Im done"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "Customer_Care_Authorized_User",
+      "examples": [
+        {
+          "text": "Please update my account to allow my spouse to access the account?"
+        },
+        {
+          "text": "Is it possible to add a user that is allowed to do change everything but cannot anything on the financial part?"
+        },
+        {
+          "text": "I'd like to add a person to my billing account"
+        },
+        {
+          "text": "I would like to add someone to my account who will be authorized to access the account and make changes."
+        },
+        {
+          "text": "I would like to add my wife to my account with access and management privileges"
+        },
+        {
+          "text": "I would like to add my son to my account. I want him to be able to access the account and to make any changes he needs. can you help me with this?"
+        },
+        {
+          "text": "Can I add another person to have authority over my account?"
+        },
+        {
+          "text": "Add user"
+        },
+        {
+          "text": "Add new user please"
+        },
+        {
+          "text": "Hi, how can I add a user so he can have all the access to my account?"
+        },
+        {
+          "text": "Can you help me add another user to this account?"
+        },
+        {
+          "text": "Can I add another user?"
+        },
+        {
+          "text": "I want to authorize my spouse to be able to make changes in my account, but not correlated with any financial or ownership responsibilities."
+        },
+        {
+          "text": "I want to add someone who can access my account."
+        },
+        {
+          "text": "I want to add my wife to the account"
+        },
+        {
+          "text": "I would like to add an authorized user to my account."
+        },
+        {
+          "text": "I want to add my roommate to my plan, but keep sending the bill to me. can I do that here?"
+        },
+        {
+          "text": "I want to add a secondary user to my account"
+        },
+        {
+          "text": "I want to add a new user who can make changes to and use the account, while I retain sole ownership?"
+        },
+        {
+          "text": "I need to add someone to my account settings."
+        }
+      ],
+      "description": "Change who has access to an account."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "sys-person",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Clinc",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Cardiology Clinic",
+          "synonyms": [
+            "Cardiology",
+            "Cardio ",
+            "Heart doctor "
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Gynecology Clinic",
+          "synonyms": [
+            "Gynecology ",
+            "Gynecologist",
+            "Women doctor"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Dentistry Clinic",
+          "synonyms": [
+            "Dentist ",
+            "Dentistry Clinic",
+            "teeth doctor"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-location",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "frame",
+      "title": "Cardio.App",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi $username, your appointment is on $date, at $time O'clock. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1579432880810",
+      "conditions": "@Clinc:(Cardiology Clinic)",
+      "dialog_node": "node_3_1580810497691",
+      "previous_sibling": "node_10_1579508109622"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1579432880810",
+      "dialog_node": "slot_1_1579506734616",
+      "previous_sibling": "handler_1_1579506733356"
+    },
+    {
+      "type": "frame",
+      "title": "Dent.App",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi $username, your appointment is on $date, at $time O'clock. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1579432880810",
+      "context": {},
+      "conditions": "@Clinc:(Dentistry Clinic)",
+      "dialog_node": "node_10_1579508109622",
+      "previous_sibling": "response_9_1579508581151"
+    },
+    {
+      "type": "event_handler",
+      "parent": "node_1_1579432880810",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1579506733356",
+      "previous_sibling": "node_1_1580810509371"
+    },
+    {
+      "type": "frame",
+      "title": "Gyni_App",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi $username, your appointment is on $date, at $time O'clock. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1579432880810",
+      "conditions": "@Clinc:(Gynecology Clinic)",
+      "dialog_node": "node_1_1580810509371",
+      "previous_sibling": "node_3_1580810497691"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "In which clinic would you like to book your appointment?",
+            "options": [
+              {
+                "label": "Dentistry Clinic ",
+                "value": {
+                  "input": {
+                    "text": "Dentistry Clinic opens from 9 AM till 2PM"
+                  }
+                }
+              },
+              {
+                "label": "Cardio Clinic ",
+                "value": {
+                  "input": {
+                    "text": "Cardio Clinic opens from 9 AM till 2PM"
+                  }
+                }
+              },
+              {
+                "label": "Gynecology Clinic",
+                "value": {
+                  "input": {
+                    "text": "Gynecology Clinic opens from 9 AM till 2PM"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1579432880810",
+      "disabled": true,
+      "dialog_node": "response_9_1579508581151"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please select a day?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_10_1580809809450",
+      "event_name": "focus",
+      "dialog_node": "handler_9_1580809809459",
+      "previous_sibling": "handler_10_1580809809459"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_10_1580809809450",
+      "context": {
+        "date": "@sys-date"
+      },
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_10_1580809809459"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please select a time?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_4_1580914603435",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1580914603441",
+      "previous_sibling": "handler_6_1580914603441"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_4_1580914603435",
+      "context": {
+        "time": "slot_in_focus&&@sys-time"
+      },
+      "conditions": "slot_in_focus&&@sys-time",
+      "event_name": "input",
+      "dialog_node": "handler_6_1580914603441"
+    },
+    {
+      "type": "slot",
+      "parent": "Welcome",
+      "variable": "$username",
+      "dialog_node": "slot_2_1579505775988",
+      "previous_sibling": "handler_1_1579415567565"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, this is your virtual assistant my I know your name?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1579415567565"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_10_1579508109622",
+      "variable": "$time",
+      "dialog_node": "slot_7_1579510118301",
+      "previous_sibling": "handler_1_1580913992460"
+    },
+    {
+      "type": "slot",
+      "parent": "node_10_1579508109622",
+      "variable": "$date",
+      "dialog_node": "slot_10_1580809809450",
+      "previous_sibling": "slot_7_1579510118301"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1579508109622",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1580913992460"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please choose a day"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_9_1580914498546",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1580914498553",
+      "previous_sibling": "handler_7_1580914498553"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_9_1580914498546",
+      "context": {
+        "date": "@sys-date"
+      },
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_7_1580914498553"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please select a time?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_7_1579510118301",
+      "event_name": "focus",
+      "dialog_node": "handler_8_1579510118320",
+      "previous_sibling": "handler_1_1579510118320"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1579510118301",
+      "context": {
+        "time": "slot_in_focus&&@sys-time"
+      },
+      "conditions": "slot_in_focus&&@sys-time",
+      "event_name": "input",
+      "dialog_node": "handler_1_1579510118320"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_1_1579506734616",
+      "event_name": "focus",
+      "dialog_node": "handler_8_1579506734624",
+      "previous_sibling": "handler_2_1579506734624"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_1_1579506734616",
+      "event_name": "input",
+      "dialog_node": "handler_2_1579506734624"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please choose a time"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_7_1580914435761",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1580914435778",
+      "previous_sibling": "handler_1_1580914435778"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1580914435761",
+      "context": {
+        "time": "@sys-time"
+      },
+      "conditions": "@sys-time",
+      "event_name": "filled",
+      "dialog_node": "handler_2_1580977548354",
+      "previous_sibling": "handler_4_1580914435778"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1580914435761",
+      "context": {
+        "time": "slot_in_focus&&@sys-time"
+      },
+      "conditions": "slot_in_focus&&@sys-time",
+      "event_name": "input",
+      "dialog_node": "handler_1_1580914435778"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please select a day?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_4_1580914576848",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1580914576862",
+      "previous_sibling": "handler_9_1580914576862"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_4_1580914576848",
+      "context": {
+        "date": "@sys-date"
+      },
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_9_1580914576862"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Hi, please tell me your name! "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_2_1579505775988",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1579505776003",
+      "previous_sibling": "handler_7_1579505776003"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_2_1579505775988",
+      "context": {
+        "username": "@sys-person"
+      },
+      "conditions": "@sys-person",
+      "event_name": "input",
+      "dialog_node": "handler_7_1579505776003"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1580810509371",
+      "variable": "$time",
+      "dialog_node": "slot_4_1580914603435",
+      "previous_sibling": "slot_4_1580914576848"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1580810509371",
+      "variable": "$date",
+      "dialog_node": "slot_4_1580914576848"
+    },
+    {
+      "type": "slot",
+      "parent": "node_3_1580810497691",
+      "variable": "$date",
+      "dialog_node": "slot_9_1580914498546",
+      "previous_sibling": "slot_7_1580914435761"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_3_1580810497691",
+      "variable": "$time",
+      "dialog_node": "slot_7_1580914435761",
+      "previous_sibling": "handler_2_1580914434917"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1580810497691",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1580914434917"
+    },
+    {
+      "type": "standard",
+      "title": "Goodbay",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Goodbye $username, have a good day!"
+              },
+              {
+                "text": "Goodbye $username, see you later! "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Ending",
+      "dialog_node": "node_4_1579509178408",
+      "previous_sibling": "node_1_1579432880810"
+    },
+    {
+      "type": "standard",
+      "title": "Clinics",
+      "output": {
+        "generic": [
+          {
+            "title": "In which clinic would you like to book your appointment?",
+            "options": [
+              {
+                "label": "Dentist Clinic",
+                "value": {
+                  "input": {
+                    "text": "Dentistry Clinic opens from nine in the morning till  two in the afternoon. When is it suitable for you?"
+                  }
+                }
+              },
+              {
+                "label": "Cardio Clinic ",
+                "value": {
+                  "input": {
+                    "text": "Cardio Clinic opens from 9 AM until 2PM. When is it suitable for you?"
+                  }
+                }
+              },
+              {
+                "label": "Gynecology Clinic",
+                "value": {
+                  "input": {
+                    "text": "Gynecology Clinic opens from 9 AM till 2PM. When is it suitable for you?"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {},
+      "metadata": {
+        "callout": {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "": ""
+          },
+          "result_variable": "webhook_result_1"
+        },
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#book_appointment",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1579432880810",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_4_1579509178408",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "frame",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi $username, How can I help you today?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {},
+      "conditions": "welcome",
+      "digress_in": "returns",
+      "dialog_node": "Welcome",
+      "digress_out": "allow_all"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "Mike"
+    }
+  ],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Appointments",
+  "language": "en",
+  "description": ""
+}
