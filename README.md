@@ -2,7 +2,7 @@
 
 # Appointments Virtual Assistant Using IBM Watson Assistant 
 
-![Watson Assistant Logo](4470_IBM-Watson-Assistance.jpg)
+![](ezgif.com-video-to-gif.gif)
 
 
 ## What is Watson assistant? 
