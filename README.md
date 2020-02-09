@@ -14,7 +14,6 @@ This is a simple chatbot that helps patients ask about clinics working times and
 
 ![](ezgif.com-video-to-gif.gif)
 
-![](ezgif.com-video-to-gif (1).gif)
 
 
 ## What can it improve from a business perspective?  
