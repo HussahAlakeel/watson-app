@@ -2,8 +2,6 @@
 
 # Appointments Virtual Assistant Using IBM Watson Assistant 
 
-![](ezgif.com-video-to-gif.gif)
-
 
 ## What is Watson assistant? 
 Watson Assistant is the industry-leading conversational AI technology powering chatbots. It is IBM’s AI product that lets you build, train, and deploy conversational interactions into any application, device, or channel.
@@ -13,6 +11,10 @@ Most chatbots try to mimic human interactions, which can frustrate users when a 
 ## About this project? 
 
 This is a simple chatbot that helps patients ask about clinics working times and days, and book them an appointment in three clinics. 
+
+![](ezgif.com-video-to-gif.gif)
+
+![](ezgif.com-video-to-gif (1).gif)
 
 
 ## What can it improve from a business perspective?  
